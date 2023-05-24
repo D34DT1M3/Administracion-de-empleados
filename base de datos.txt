@@ -1,0 +1,5 @@
+
+create database proyecto;
+	use proyecto;
+
+create table empleados(cedula int, nombre text, posicion text, oficina text, telefono text, correo text, edad text, horas text, salario text);
